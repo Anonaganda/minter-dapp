@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the XCUTNPutin NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The XCUTNPutin NFT Project supports restoring human rights to the Ukrainian people, and eradication of the Dictator who is destroying them.';
+const welcome_p = 'The XCUTNPutin NFT Project supports restoring human rights to the Ukrainian people, and eradication of the Dictator who is committing horrific war crimes against innocent human beings. The unique artworks are inspired by assassination styles befitting the crimes of the perpetrator.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";

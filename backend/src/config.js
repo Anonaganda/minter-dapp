@@ -8,7 +8,7 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "XCUTNPutin";
-const description = "The XCUTNPutin Project is dedicated to restoring human rights to the Ukrainian people, and eradication of the Dictator who has committed horrific acts of war against human beings. The collection of 5000 unique works of art is inspired by assassination styles befitting the perpetrator.";
+const description = "The XCUTNPutin Project is dedicated to restoring human rights to the Ukrainian people, and eradication of the Dictator who has committed horrific war crimes against human beings. The collection of 5000 unique works of art is inspired by assassination styles befitting the perpetrator.";
 const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 // If you have selected Solana then the collection starts from 0 automatically
